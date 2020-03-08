@@ -1,0 +1,7 @@
+{
+  "user":"chandra",
+  "password":"interOP@123",
+  "host":"localhost",
+  "port": "3306",
+  "database": "binance"
+}
